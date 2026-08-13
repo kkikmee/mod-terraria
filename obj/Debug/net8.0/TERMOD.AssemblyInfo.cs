@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TERMOD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6414fae91461fb44c5b774c9d648b993567b1fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TERMOD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TERMOD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
